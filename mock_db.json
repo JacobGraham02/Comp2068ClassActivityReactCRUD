@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Mr Smith",
+      "email": "smith@email.com",
+      "department": "Finance",
+      "position": "Accountant"
+    },
+    {
+      "id": 2,
+      "name": "Moe",
+      "email": "moesbar@email.com",
+      "department": "Marketing",
+      "position": "Project Director"
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "email": "jackthegiant@email.com",
+      "department": "Agriculture",
+      "position": "Farmer"
+    },
+    {
+      "name": "Ms Jackson",
+      "email": "sorrymsjackson@outcasts.com",
+      "department": "HR",
+      "position": "Consultant",
+      "id": 4
+    }
+  ]
+}
